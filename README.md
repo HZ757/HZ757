@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HZ757&show_icons=true&theme=radical)
+
 <!--
 **HZ757/HZ757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
