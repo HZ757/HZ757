@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am an aspiring Software Engineer, looking to build great things.
+
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HZ757&show_icons=true&theme=radical)
 
 <!--
