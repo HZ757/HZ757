@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an aspiring Software Engineer, looking to build great things.
+I am an aspiring Software Engineer, trying to be better every single day.
 
 Please check out my personal website: https://www.henryz.dev/
 
