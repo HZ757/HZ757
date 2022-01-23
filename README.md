@@ -6,6 +6,8 @@ Please check out my personal website: https://www.henryz.dev/
 
 Check out my LinkedIn if you want to contact me: https://www.linkedin.com/in/hz757/
 
+See my Resume: https://www.henryz.dev/static/media/Resume.2a2be588d3161cad9206.pdf
+
 My Leetcode: https://leetcode.com/HZ757/
 
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HZ757&show_icons=true&theme=radical)
