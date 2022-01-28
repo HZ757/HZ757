@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an aspiring Software Engineer, trying to be better every single day. I'm currently an experienced FullStack developer, with experience in React.js, Node.js, Express.js and Firebase.
+I am an aspiring Software Engineer, trying to be better every single day. I'm currently an experienced FullStack developer, with experience in React.js, Node.js, Express.js and Firebase. I'm interested in VR development.
 
 Currently trying to learn MongoDB.
 
