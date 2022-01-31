@@ -2,8 +2,6 @@
 
 I am an aspiring Software Engineer, trying to be better every single day. I'm currently an experienced FullStack developer, with experience in React.js, Node.js, Express.js and Firebase. I'm interested in VR development. Trying to get an Internship for Summer 2022, or Fall 2022.
 
-Currently trying to learn MongoDB.
-
 Please check out my personal website: https://www.henryz.dev/
 
 Check out my LinkedIn if you want to contact me: https://www.linkedin.com/in/hz757/
