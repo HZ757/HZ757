@@ -6,7 +6,7 @@ Please check out my personal website: https://www.henryz.dev/
 
 Check out my LinkedIn if you want to contact me: https://www.linkedin.com/in/hz757/
 
-See my Resume: https://www.henryz.dev/static/media/Resume.2a2be588d3161cad9206.pdf
+See my Resume: https://www.henryz.dev/static/media/Resume.ba007eacbef85717b9ec.pdf
 
 My Leetcode: https://leetcode.com/HZ757/
 
