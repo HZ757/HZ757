@@ -1,4 +1,4 @@
-### Hi there 👋👋👋👋👋👋
+### Hi there 👋👋👋👋👋👋👋
 
 I am an aspiring Software Engineer, trying to learn and improve every single day. I'm currently an experienced FullStack developer, with experience in React.js, Node.js, Express.js and Firebase. I'm interested in VR development, as well as Full Stack. Trying to get an Internship/co-op for Summer 2022, or Fall 2022.
 
