@@ -2,6 +2,8 @@
 
 I am an aspiring Software Engineer, trying to learn and improve every single day. I'm currently an experienced FullStack developer, with experience in React.js, Node.js, Express.js and Firebase. I'm interested in Full Stack, Data Science, Cybersecurity, VR. I am currently interning at Microsoft for Summer 2022.
 
+Interned at: Microsoft, Arctic Wolf
+
 Please check out my personal website: https://www.henryz.dev/
 
 Check out my LinkedIn if you want to contact me: https://www.linkedin.com/in/hz757/
