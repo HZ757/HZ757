@@ -1,6 +1,6 @@
 ### Hi there 👋👋👋👋👋👋👋
 
-I am an aspiring Software Engineer, trying to learn and improve every single day. I'm currently an experienced FullStack developer, with experience in React.js, Node.js, Express.js and Firebase. I'm interested in Full Stack, Data Science, Cybersecurity, VR. I am currently interning at Microsoft for Summer 2022.
+I am an aspiring Software Engineer, trying to learn and improve every single day. I'm currently an experienced FullStack developer, with experience in React.js, Node.js, Express.js and Firebase. I'm interested in Full Stack, Data Science, Cybersecurity, VR. I am joining Microsoft as a Software Engineer starting in summer 2024.
 
 Interned at: Microsoft, Arctic Wolf
 
